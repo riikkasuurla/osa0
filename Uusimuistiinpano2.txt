@@ -1,0 +1,7 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: [{ "content": "", "date": "2022-11-24T12:16:07.243Z" }, ...]
+
+note over selain:
+muistiinpanot tulostuvat 
+näkyviin näytölle
+end note
